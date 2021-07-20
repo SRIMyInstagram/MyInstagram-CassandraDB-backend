@@ -14,7 +14,7 @@ git remote add origin <your-url>
 
 - Add this repository as upstream
 ```bash
-git remote add upstream https://github.com/RentingSystemSE/Renting-System-Backend.git
+git remote add upstream https://github.com/SRIMyInstagram/MyInstagram-CassandraDB-backend.git
 ```
 
 - To sync your local repository with central repository
