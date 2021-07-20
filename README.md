@@ -31,5 +31,4 @@ git pull upstream main
 ```bash
 npm install
 npm run dev (for development mode)
-npm start (for production mode)
 ```
